@@ -23,8 +23,8 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data
-                    android:scheme="app"
-                    android:host="test"/>
+                    android:scheme="example"
+                    android:host="launch"/>
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
